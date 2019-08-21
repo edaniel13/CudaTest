@@ -1,0 +1,4 @@
+cmake -H../../ -B. -DCMAKE_INSTALL_PREFIX:PATH=/usr/local/Test 
+
+#-DCMAKE_CXX_COMPILER=/usr/local/cuda-8.0/bin/nvcc -DCMAKE_CC_COMPILER=/usr/local/cuda-8.0/bin/nvcc
+
